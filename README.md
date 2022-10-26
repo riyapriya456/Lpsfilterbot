@@ -1,5 +1,7 @@
 <h2 align="centre"><i><b>🎀LPSMOVIES🎀</i></b></h2>
 
+#VPS EDITION - No error for VPS with Latest updates
+
 # ViewFilters Won't Work
 
 <p align="center"><a href="https://t.me/Logeshps_bot2"><img src="https://picsxtra.com/images/2022/10/26/photo_2022-08-28_16-43-12.jpg" alt="photo_2022-08-28_16-43-12.jpg" border="0" /></a></p>
