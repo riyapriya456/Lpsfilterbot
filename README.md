@@ -53,13 +53,19 @@
 ## Any bugs or errors or suggestions, report at [LPSMOVIES](https://t.me/Logeshps_bot2)
 
 
-### Deploy to Heroku
+### Deploy to VPS
 
-<details><summary>Deploy To Heroku</summary>
+<details><summary>Deploy To VPS (eg: DAKI.cc)</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/LPSMOVIES/Lpsflterbot">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+
+* FORK THE REPO AND FILL THE 'Config.py"
+
+* DOWNLOAD THE CODE 
+
+* UPLOAD THE CODE IN ZIP FORMAT in FILE STORAGE 
+
+* UNARCHIVE THERE AND START THE SERVER
 </a>
 </p>
 </details>
