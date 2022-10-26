@@ -1,21 +1,19 @@
-<h2 align="centre"><i><b>🎀TECHNO MINDZ🎀</i></b></h2>
+<h2 align="centre"><i><b>🎀LPSMOVIES🎀</i></b></h2>
 
 # ViewFilters Won't Work
 
-<p align="center"><a href="https://t.me/technomindzchat"><img src="https://telegra.ph/file/b417bdd01331179d5787c.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/Logeshps_bot2"><img src="https://picsxtra.com/images/2022/10/26/photo_2022-08-28_16-43-12.jpg" alt="photo_2022-08-28_16-43-12.jpg" border="0" /></a></p>
 
 ## Introduction
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Techno+Mindz!;A+FILTER+BOT+LIKE+BETTERFILTERBOT;Created+by+RAVINANDAN!;A+simple+and+a+powerful+Bot!;Don't+Forget+To+Subcribe;Techno+Mindz+in+YouTube;)
 </p>
 </h1>
-<a href="https://www.youtube.com/c/TechnoMindz">
-  <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">
 
 ## SUPPORT
 ## IF YOU NEED ANY ASSISTANCE FEEL FREE TO CONTACT
-## YOUTUBE  [SUPPORT_CHANNEL](https://t.me/technomindzchat)
-## Contact [OWNER](https://t.me/technomindzyt)
+## YOUTUBE  [SUPPORT_CHANNEL](https://t.me/lpsmovies)
+## Contact [OWNER](https://t.me/Logeshps_bot2)
   
 ### Features
 * Nearly unlimited filters
@@ -32,9 +30,6 @@
 * Add bot to your group with admin rights.
 
 * Add your filters :)
-
-## Modal Bot 
-  * [<i><b>@TMBETTERFILTERBOT</i></b>](https://t.me/tmbetterfilterbot)
 
 ## Bot Commands
 
@@ -61,7 +56,7 @@
 
 
 
-## Any bugs or errors or suggestions, report at [TMSUPPORT](https://telegram.dog/TECHNOMINDZCHAT)
+## Any bugs or errors or suggestions, report at [LPSMOVIES](https://t.me/Logeshps_bot2)
 
 
 ### Deploy to Heroku
@@ -69,7 +64,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/TechnoMindz/FilterBot">
+<a href="https://heroku.com/deploy?template=https://github.com/LPSMOVIES/Lpsflterbot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -77,19 +72,8 @@
 
   ## CREATED BY
  
-* [RAVINANDAN](https://t.me/TechnoMINDZYT)
-## Selling The Codes To Other People For Money Is *Strictly Prohibited*.
+* [LOGESH](https://t.me/LPSMOVIES)
+## Selling The Codes To Other People For Money Is *Strictly Prohibited*. THIS BOT BELONGS TO LPSMOVIES .
 
-
-## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/technomindzchat)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/Tmmainchannel)
-
-
-
-
-## Thanks to 
-
- - Thanks To [꧁𓊈𒆜🆁🅰🆅🅸🅽🅰🅽🅳🅰🅽𒆜𓊉꧂](https://t.me/TechnoMindzyT) for Their Awesome [Unlimited Filter Bot]
 
 # FilterBot
