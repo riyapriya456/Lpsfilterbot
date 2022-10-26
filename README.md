@@ -4,12 +4,6 @@
 
 <p align="center"><a href="https://t.me/Logeshps_bot2"><img src="https://picsxtra.com/images/2022/10/26/photo_2022-08-28_16-43-12.jpg" alt="photo_2022-08-28_16-43-12.jpg" border="0" /></a></p>
 
-## Introduction
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Techno+Mindz!;A+FILTER+BOT+LIKE+BETTERFILTERBOT;Created+by+RAVINANDAN!;A+simple+and+a+powerful+Bot!;Don't+Forget+To+Subcribe;Techno+Mindz+in+YouTube;)
-</p>
-</h1>
-
 ## SUPPORT
 ## IF YOU NEED ANY ASSISTANCE FEEL FREE TO CONTACT
 ## YOUTUBE  [SUPPORT_CHANNEL](https://t.me/lpsmovies)
